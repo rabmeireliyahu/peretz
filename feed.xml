@@ -29,7 +29,16 @@ Rab Israel perets</itunes:summary>
 			<itunes:category text="Judaism" />
 		</itunes:category>
 		<itunes:image href="https://rabmeireliyahu.github.io/peretz/portada.jpg" />
-		<item>
+		    <item>
+      <title>Rab Yosef Perets - or Letzion</title>
+      <description>Rab Yosef Perets - or Letzion</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets%20-%20or%20Letzion.mp3" length="8828589" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets - or Letzion.mp3</guid>
+      <pubDate>Wed, 15 Jul 2026 22:53:31 -0000</pubDate>
+      <itunes:duration>00:09:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
 			<title>Halajot Tolaim (bichos en la comida) - Rab Yosef Perets</title>
 			<description>&lt;p&gt;Rab Yosef Perets &lt;/p&gt;
 </description>
