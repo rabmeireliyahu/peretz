@@ -2,10 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>Shiurim familia Perets</title>
-		<description>Shiurim 
-Rab David Perets
-Rab Yosef Perets
-Rab Israel perets</description>
+		<description>Shiurim de Torá en español con el Rab David Perets, Rab Yosef Perets y Rab Israel Perets. Halajá práctica, parashat hashavúa, emuná, musar y fiestas judías. Clases completas para escuchar gratis - Otzar HaTorah.</description>
 		<link>https://rabmeireliyahu.github.io/peretz/</link>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Wed, 15 Jul 2026 02:31:49 GMT</lastBuildDate>
@@ -15,10 +12,7 @@ Rab Israel perets</description>
 		<language>he</language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 		<itunes:author>אוצר התורה</itunes:author>
-		<itunes:summary>Shiurim 
-Rab David Perets
-Rab Yosef Perets
-Rab Israel perets</itunes:summary>
+		<itunes:summary>Shiurim de Torá en español con el Rab David Perets, Rab Yosef Perets y Rab Israel Perets. Halajá práctica, parashat hashavúa, emuná, musar y fiestas judías. Clases completas para escuchar gratis - Otzar HaTorah.</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>אוצר התורה</itunes:name>
