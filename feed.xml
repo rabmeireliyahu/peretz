@@ -3027,5 +3027,14 @@
       <itunes:duration>00:01:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Caso de Joshen Mishpat - Le dieron un dinero para entregar a otra persona y le robaron, Rav Akiva Perets</title>
+      <description>Caso de Joshen Mishpat - Le dieron un dinero para entregar a otra persona y le robaron, Rav Akiva Perets</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Caso%20de%20Joshen%20Mishpat%20-%20Le%20dieron%20un%20dinero%20para%20entregar%20a%20otra%20persona%20y%20le%20robaron%2C%20Rav%20Akiva%20Perets.mp3" length="11362605" type="audio/mpeg"/>
+      <guid isPermaLink="false">Caso de Joshen Mishpat - Le dieron un dinero para entregar a otra persona y le robaron, Rav Akiva Perets.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:17:06 -0000</pubDate>
+      <itunes:duration>00:11:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
