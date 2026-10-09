@@ -3036,5 +3036,41 @@
       <itunes:duration>00:11:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Decir Shne Mikra de noche se puede</title>
+      <description>Rab Yosef Perets- Decir Shne Mikra de noche se puede</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Decir%20Shne%20Mikra%20de%20noche%20se%20puede.mp3" length="725037" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Decir Shne Mikra de noche se puede.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 11:53:00 -0000</pubDate>
+      <itunes:duration>00:00:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Yosef Perets- La costumbre de decir Vesimaná tabá al iniciar la lectura del sefer Bereshit</title>
+      <description>Rab Yosef Perets- La costumbre de decir Vesimaná tabá al iniciar la lectura del sefer Bereshit</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20La%20costumbre%20de%20decir%20Vesiman%C3%A1%20tab%C3%A1%20al%20iniciar%20la%20lectura%20del%20sefer%20Bereshit.mp3" length="576813" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- La costumbre de decir Vesimaná tabá al iniciar la lectura del sefer Bereshit.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 11:53:01 -0000</pubDate>
+      <itunes:duration>00:00:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Se puede exprimir frutas en shabat - Rav Akiva Perets</title>
+      <description>Se puede exprimir frutas en shabat - Rav Akiva Perets</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Se%20puede%20exprimir%20frutas%20en%20shabat%20-%20Rav%20Akiva%20Perets.mp3" length="17591469" type="audio/mpeg"/>
+      <guid isPermaLink="false">Se puede exprimir frutas en shabat - Rav Akiva Perets.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 12:37:09 -0000</pubDate>
+      <itunes:duration>00:18:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cancelar una compra se puede - Rab Akiva Perets</title>
+      <description>Cancelar una compra se puede - Rab Akiva Perets</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Cancelar%20una%20compra%20se%20puede%20-%20Rab%20Akiva%20Perets.mp3" length="21527557" type="audio/mpeg"/>
+      <guid isPermaLink="false">Cancelar una compra se puede - Rab Akiva Perets.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 12:37:11 -0000</pubDate>
+      <itunes:duration>00:59:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
