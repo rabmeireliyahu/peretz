@@ -3099,5 +3099,23 @@
       <itunes:duration>00:09:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Pararse por alguien mayor de 70 años</title>
+      <description>Rab Yosef Perets- Pararse por alguien mayor de 70 años</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Pararse%20por%20alguien%20mayor%20de%2070%20a%C3%B1os.mp3" length="1027629" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Pararse por alguien mayor de 70 años.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 19:08:01 -0000</pubDate>
+      <itunes:duration>00:01:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Yosef Perets- Quien se salva de manera natural de algun peligro que debe hacer</title>
+      <description>Rab Yosef Perets- Quien se salva de manera natural de algun peligro que debe hacer</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Quien%20se%20salva%20de%20manera%20natural%20de%20algun%20peligro%20que%20debe%20hacer.mp3" length="1067949" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Quien se salva de manera natural de algun peligro que debe hacer.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 19:08:02 -0000</pubDate>
+      <itunes:duration>00:01:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
