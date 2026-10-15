@@ -3117,5 +3117,14 @@
       <itunes:duration>00:01:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Cuando se debe decir la berajá de Hagomel</title>
+      <description>Rab Yosef Perets- Cuando se debe decir la berajá de Hagomel</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Cuando%20se%20debe%20decir%20la%20beraj%C3%A1%20de%20Hagomel.mp3" length="1730349" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Cuando se debe decir la berajá de Hagomel.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 18:09:06 -0000</pubDate>
+      <itunes:duration>00:01:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
