@@ -3135,5 +3135,14 @@
       <itunes:duration>00:00:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Lo que compra la mujer es del esposo cuando aplica - Rab Akiva Perets</title>
+      <description>Lo que compra la mujer es del esposo cuando aplica - Rab Akiva Perets</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Lo%20que%20compra%20la%20mujer%20es%20del%20esposo%20cuando%20aplica%20-%20Rab%20Akiva%20Perets.mp3" length="8067117" type="audio/mpeg"/>
+      <guid isPermaLink="false">Lo que compra la mujer es del esposo cuando aplica - Rab Akiva Perets.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 20:36:33 -0000</pubDate>
+      <itunes:duration>00:08:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
