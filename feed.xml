@@ -3144,5 +3144,32 @@
       <itunes:duration>00:08:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Mijael Perets - Parashat Noaj 5787</title>
+      <description>Rab Mijael Perets - Parashat Noaj 5787</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Mijael%20Perets%20-%20Parashat%20Noaj%205787.mp3" length="10974765" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Mijael Perets - Parashat Noaj 5787.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 13:27:42 -0000</pubDate>
+      <itunes:duration>00:11:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Derashá Semanal Perashat Noaj 5787. Rab Mijael Perets</title>
+      <description>Derashá Semanal Perashat Noaj 5787. Rab Mijael Perets</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Derash%C3%A1%20Semanal%20Perashat%20Noaj%205787.%20Rab%20Mijael%20Perets.mp3" length="20533415" type="audio/mpeg"/>
+      <guid isPermaLink="false">Derashá Semanal Perashat Noaj 5787. Rab Mijael Perets.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 13:27:43 -0000</pubDate>
+      <itunes:duration>00:56:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Yosef Perets - Noaj 5</title>
+      <description>Rab Yosef Perets - Noaj 5</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets%20-%20Noaj%205.mp3" length="28546401" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets - Noaj 5.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 13:27:45 -0000</pubDate>
+      <itunes:duration>00:32:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
