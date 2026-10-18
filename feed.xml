@@ -3171,5 +3171,23 @@
       <itunes:duration>00:32:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Si no puso Kavaná en H Sefatai en la amida que pasa</title>
+      <description>Rab Yosef Perets- Si no puso Kavaná en H Sefatai en la amida que pasa</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Si%20no%20puso%20Kavan%C3%A1%20en%20H%20Sefatai%20en%20la%20amida%20que%20pasa.mp3" length="399789" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Si no puso Kavaná en H Sefatai en la amida que pasa.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 10:22:01 -0000</pubDate>
+      <itunes:duration>00:00:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Yosef Perets- Comer dulces que pintan en shabat esta permitido</title>
+      <description>Rab Yosef Perets- Comer dulces que pintan en shabat esta permitido</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Comer%20dulces%20que%20pintan%20en%20shabat%20esta%20permitido.mp3" length="628269" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Comer dulces que pintan en shabat esta permitido.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 10:22:01 -0000</pubDate>
+      <itunes:duration>00:00:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
