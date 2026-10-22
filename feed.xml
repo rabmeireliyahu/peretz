@@ -3288,5 +3288,23 @@
       <itunes:duration>00:06:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Que puede hacer pasul un documento como Ketuva</title>
+      <description>Rab Yosef Perets- Que puede hacer pasul un documento como Ketuva</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Que%20puede%20hacer%20pasul%20un%20documento%20como%20Ketuva.mp3" length="712749" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Que puede hacer pasul un documento como Ketuva.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 13:14:27 -0000</pubDate>
+      <itunes:duration>00:00:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Yosef Perets- abrir paquetitos de ketchup o similar en shabat</title>
+      <description>Rab Yosef Perets- abrir paquetitos de ketchup o similar en shabat</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20abrir%20paquetitos%20de%20ketchup%20o%20similar%20en%20shabat.mp3" length="539949" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- abrir paquetitos de ketchup o similar en shabat.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 13:14:27 -0000</pubDate>
+      <itunes:duration>00:00:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
