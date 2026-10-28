@@ -3468,5 +3468,14 @@
       <itunes:duration>00:02:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Condimentar el Humus en shabat se puede</title>
+      <description>Rab Yosef Perets- Condimentar el Humus en shabat se puede</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Condimentar%20el%20Humus%20en%20shabat%20se%20puede.mp3" length="524973" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Condimentar el Humus en shabat se puede.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 14:47:32 -0000</pubDate>
+      <itunes:duration>00:00:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
