@@ -3693,5 +3693,14 @@
       <itunes:duration>00:55:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Un sombrero que perdió su forma se puede arreglar en shabat</title>
+      <description>Rab Yosef Perets- Un sombrero que perdió su forma se puede arreglar en shabat</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Un%20sombrero%20que%20perdi%C3%B3%20su%20forma%20se%20puede%20arreglar%20en%20shabat.mp3" length="320685" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Un sombrero que perdió su forma se puede arreglar en shabat.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 13:35:58 -0000</pubDate>
+      <itunes:duration>00:00:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
