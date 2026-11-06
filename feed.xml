@@ -3747,5 +3747,23 @@
       <itunes:duration>00:11:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- usar tapones de oido en shabat</title>
+      <description>Rab Yosef Perets- usar tapones de oido en shabat</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20usar%20tapones%20de%20oido%20en%20shabat.mp3" length="600237" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- usar tapones de oido en shabat.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 08:11:55 -0000</pubDate>
+      <itunes:duration>00:00:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Mijael Perets- Batej Alenu de un jazan de israel que visita panamá</title>
+      <description>Rab Mijael Perets- Batej Alenu de un jazan de israel que visita panamá</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Mijael%20Perets-%20Batej%20Alenu%20de%20un%20jazan%20de%20israel%20que%20visita%20panam%C3%A1.mp3" length="2230701" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Mijael Perets- Batej Alenu de un jazan de israel que visita panamá.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 08:11:56 -0000</pubDate>
+      <itunes:duration>00:02:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
