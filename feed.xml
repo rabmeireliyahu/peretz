@@ -3909,5 +3909,23 @@
       <itunes:duration>00:02:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Mijael Perets- Se puede contestar Amen a una beraja de un Goy</title>
+      <description>Rab Mijael Perets- Se puede contestar Amen a una beraja de un Goy</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Mijael%20Perets-%20Se%20puede%20contestar%20Amen%20a%20una%20beraja%20de%20un%20Goy.mp3" length="2972589" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Mijael Perets- Se puede contestar Amen a una beraja de un Goy.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 13:12:05 -0000</pubDate>
+      <itunes:duration>00:03:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Mijael Perets- Halajot Halel de Rosh Jodesh</title>
+      <description>Rab Mijael Perets- Halajot Halel de Rosh Jodesh</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Mijael%20Perets-%20Halajot%20Halel%20de%20Rosh%20Jodesh.mp3" length="1411245" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Mijael Perets- Halajot Halel de Rosh Jodesh.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 13:12:06 -0000</pubDate>
+      <itunes:duration>00:01:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
