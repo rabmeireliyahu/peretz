@@ -4179,5 +4179,23 @@
       <itunes:duration>00:48:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- filtrar agua en Shabat para tomar</title>
+      <description>Rab Yosef Perets- filtrar agua en Shabat para tomar</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20filtrar%20agua%20en%20Shabat%20para%20tomar.mp3" length="1146669" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- filtrar agua en Shabat para tomar.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 08:43:51 -0000</pubDate>
+      <itunes:duration>00:01:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Yosef Perets- Diferentes costumbres de la hora de encendido de la janukiya en sinagogas</title>
+      <description>Rab Yosef Perets- Diferentes costumbres de la hora de encendido de la janukiya en sinagogas</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Diferentes%20costumbres%20de%20la%20hora%20de%20encendido%20de%20la%20janukiya%20en%20sinagogas.mp3" length="517293" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Diferentes costumbres de la hora de encendido de la janukiya en sinagogas.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 08:43:52 -0000</pubDate>
+      <itunes:duration>00:00:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
