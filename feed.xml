@@ -4197,5 +4197,14 @@
       <itunes:duration>00:00:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Como se dice la berajá del encendido de la Janukiya</title>
+      <description>Rab Yosef Perets- Como se dice la berajá del encendido de la Janukiya</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Como%20se%20dice%20la%20beraj%C3%A1%20del%20encendido%20de%20la%20Janukiya.mp3" length="461228" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Como se dice la berajá del encendido de la Janukiya.mp3</guid>
+      <pubDate>Thu, 19 Nov 2026 13:06:17 -0000</pubDate>
+      <itunes:duration>00:00:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
