@@ -4296,5 +4296,32 @@
       <itunes:duration>00:32:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Parasha Vayetze - Rav Akiva Perets</title>
+      <description>Parasha Vayetze - Rav Akiva Perets</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Parasha%20Vayetze%20-%20Rav%20Akiva%20Perets.mp3" length="3470252" type="audio/mpeg"/>
+      <guid isPermaLink="false">Parasha Vayetze - Rav Akiva Perets.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 14:58:10 -0000</pubDate>
+      <itunes:duration>00:03:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Halajot SHABBAT. Profanar Shabbat para salvar la vida de una persona a través de un remedio no convencional . Simán 329.</title>
+      <description>Halajot SHABBAT. Profanar Shabbat para salvar la vida de una persona a través de un remedio no convencional . Simán 329.</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Halajot%20SHABBAT.%20Profanar%20Shabbat%20para%20salvar%20la%20vida%20de%20una%20persona%20a%20trav%C3%A9s%20de%20un%20remedio%20no%20convencional%20.%20Sim%C3%A1n%20329..mp3" length="14807421" type="audio/mpeg"/>
+      <guid isPermaLink="false">Halajot SHABBAT. Profanar Shabbat para salvar la vida de una persona a través de un remedio no convencional . Simán 329..mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 14:58:20 -0000</pubDate>
+      <itunes:duration>00:40:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Mijael Perets Parashat Vayetze 5787</title>
+      <description>Rab Mijael Perets Parashat Vayetze 5787</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Mijael%20Perets%20Parashat%20Vayetze%205787.mp3" length="22606447" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Mijael Perets Parashat Vayetze 5787.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 14:58:21 -0000</pubDate>
+      <itunes:duration>01:02:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
