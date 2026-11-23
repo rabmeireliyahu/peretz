@@ -4413,5 +4413,23 @@
       <itunes:duration>00:00:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>הרב מיכאל פרץ הלכות שבת בעיון סימן שסג סעיף ט</title>
+      <description>הרב מיכאל פרץ הלכות שבת בעיון סימן שסג סעיף ט</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/%D7%94%D7%A8%D7%91%20%D7%9E%D7%99%D7%9B%D7%90%D7%9C%20%D7%A4%D7%A8%D7%A5%20%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%20%D7%91%D7%A2%D7%99%D7%95%D7%9F%20%D7%A1%D7%99%D7%9E%D7%9F%20%D7%A9%D7%A1%D7%92%20%D7%A1%D7%A2%D7%99%D7%A3%20%D7%98.mp3" length="16911793" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב מיכאל פרץ הלכות שבת בעיון סימן שסג סעיף ט.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 14:28:13 -0000</pubDate>
+      <itunes:duration>00:46:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Halajot de carne y leche - Rav Akiva Perets</title>
+      <description>Halajot de carne y leche - Rav Akiva Perets</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Halajot%20de%20carne%20y%20leche%20-%20Rav%20Akiva%20Perets.mp3" length="2958095" type="audio/mpeg"/>
+      <guid isPermaLink="false">Halajot de carne y leche - Rav Akiva Perets.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 14:28:20 -0000</pubDate>
+      <itunes:duration>00:03:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
