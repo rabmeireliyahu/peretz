@@ -4395,5 +4395,23 @@
       <itunes:duration>00:51:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Cuidarse de rezar en un lugar con ventanas</title>
+      <description>Rab Yosef Perets- Cuidarse de rezar en un lugar con ventanas</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Cuidarse%20de%20rezar%20en%20un%20lugar%20con%20ventanas.mp3" length="662444" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Cuidarse de rezar en un lugar con ventanas.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 08:18:28 -0000</pubDate>
+      <itunes:duration>00:00:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Yosef Perets- Se pueden hacer peticiones después de decir Al Hanisim de la amida</title>
+      <description>Rab Yosef Perets- Se pueden hacer peticiones después de decir Al Hanisim de la amida</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Se%20pueden%20hacer%20peticiones%20despu%C3%A9s%20de%20decir%20Al%20Hanisim%20de%20la%20amida.mp3" length="758828" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Se pueden hacer peticiones después de decir Al Hanisim de la amida.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 08:18:31 -0000</pubDate>
+      <itunes:duration>00:00:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
