@@ -4431,5 +4431,14 @@
       <itunes:duration>00:03:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Encendido de Janukiya cuando se va de viaje sin la esposa</title>
+      <description>Rab Yosef Perets- Encendido de Janukiya cuando se va de viaje sin la esposa</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Encendido%20de%20Janukiya%20cuando%20se%20va%20de%20viaje%20sin%20la%20esposa.mp3" length="607532" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Encendido de Janukiya cuando se va de viaje sin la esposa.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 13:34:35 -0000</pubDate>
+      <itunes:duration>00:00:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
