@@ -4476,5 +4476,23 @@
       <itunes:duration>00:03:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Yosef Perets- Cual es el tiempo ideal para prender la Janukiya</title>
+      <description>Rab Yosef Perets- Cual es el tiempo ideal para prender la Janukiya</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Cual%20es%20el%20tiempo%20ideal%20para%20prender%20la%20Janukiya.mp3" length="562988" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Cual es el tiempo ideal para prender la Janukiya.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 12:16:52 -0000</pubDate>
+      <itunes:duration>00:00:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Yosef Perets- Cual versión de Hanerot Halalu se debe decir</title>
+      <description>Rab Yosef Perets- Cual versión de Hanerot Halalu se debe decir</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-familia-perets/Rab%20Yosef%20Perets-%20Cual%20versi%C3%B3n%20de%20Hanerot%20Halalu%20se%20debe%20decir.mp3" length="476588" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Yosef Perets- Cual versión de Hanerot Halalu se debe decir.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 12:16:55 -0000</pubDate>
+      <itunes:duration>00:00:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	</channel>
 </rss>
